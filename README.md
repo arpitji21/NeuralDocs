@@ -6,28 +6,7 @@ Built using **FastAPI, LangChain, PostgreSQL + pgvector, React (Vite), FastEmbed
 
 
 
-## 📸 Application Preview
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
-  <div style="flex: 1; min-width: 250px;">
-    <img src="Screenshot 2026-05-27 144807.png" alt="NeuralDocs document upload and management" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    <p style="text-align: center; font-size: 0.9rem; margin-top: 8px;"><strong>📄 Document Upload & Management</strong></p>
-  </div>
-  <div style="flex: 1; min-width: 250px;">
-    <img src="Screenshot 2026-05-27 144834.png" alt="NeuralDocs embedding visualization" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    <p style="text-align: center; font-size: 0.9rem; margin-top: 8px;"><strong>📊 Interactive Embedding Visualization</strong></p>
-  </div>
-  <div style="flex: 1; min-width: 250px;">
-    <img src="Screenshot 2026-05-27 144850.png" alt="NeuralDocs AI chat with source citations" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    <p style="text-align: center; font-size: 0.9rem; margin-top: 8px;"><strong>💬 AI Chat with Source Citations</strong></p>
-  </div>
-  <div style="flex: 1; min-width: 250px;">
-    <img src="Screenshot 2026-05-27 144903.png" alt="NeuralDocs token usage and latency logs" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    <p style="text-align: center; font-size: 0.9rem; margin-top: 8px;"><strong>📜 Request Logs & Performance Metrics</strong></p>
-  </div>
-</div>
-
----
 
 ## ✨ Key Features
 
